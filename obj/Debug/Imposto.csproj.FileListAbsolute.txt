@@ -1,0 +1,9 @@
+C:\Estudo CSharp\Imposto\Imposto\Imposto\bin\Debug\Imposto.exe.config
+C:\Estudo CSharp\Imposto\Imposto\Imposto\obj\Debug\Imposto.csprojResolveAssemblyReference.cache
+C:\Estudo CSharp\Imposto\Imposto\Imposto\obj\Debug\Imposto.frmPrincipal.resources
+C:\Estudo CSharp\Imposto\Imposto\Imposto\obj\Debug\Imposto.Properties.Resources.resources
+C:\Estudo CSharp\Imposto\Imposto\Imposto\obj\Debug\Imposto.csproj.GenerateResource.Cache
+C:\Estudo CSharp\Imposto\Imposto\Imposto\bin\Debug\Imposto.exe
+C:\Estudo CSharp\Imposto\Imposto\Imposto\bin\Debug\Imposto.pdb
+C:\Estudo CSharp\Imposto\Imposto\Imposto\obj\Debug\Imposto.exe
+C:\Estudo CSharp\Imposto\Imposto\Imposto\obj\Debug\Imposto.pdb
